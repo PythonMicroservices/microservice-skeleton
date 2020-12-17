@@ -10,11 +10,6 @@ open an issue in the issue tracker.
 
 This project is a template for building microservices with Flask.
 
-.. image:: https://coveralls.io/repos/github/tarekziade/microservice/badge.svg?branch=master
-   :target: https://coveralls.io/github/tarekziade/microservice?branch=master
-
-.. image:: https://readthedocs.org/projects/microservice/badge/?version=latest
-   :target: https://microservice.readthedocs.io
 
 
 
