@@ -24,4 +24,7 @@ jobs:
     - name: Lint with Black
       run: |
         black --check --diff .
+    - name: Coveralls GitHub Action
+      uses: coverallsapp/github-action@v1.1.2
+
 
