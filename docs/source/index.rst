@@ -2,15 +2,15 @@ Myservice
 =========
 
 
-**myservice** is a simple JSON Flask application that uses **Flakon**.
+**myservice** is a simple JSON Quart application.
 
-The application is created with :func:`flakon.create_app`:
+The application is created with :func:`create_app`:
 
 .. literalinclude:: ../../myservice/app.py
 
 
 The :file:`settings.ini` file which is passed to :func:`create_app`
-contains options for running the Flask app, like the DEBUG flag:
+contains options for running the Quart app, like the DEBUG flag:
 
 .. literalinclude:: ../../myservice/settings.ini
    :language: ini
